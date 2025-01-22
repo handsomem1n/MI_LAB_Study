@@ -1,0 +1,18 @@
+team: Tigers
+
+manager: Thanos
+
+coach: Ronan
+
+members:
+- Linda
+- William
+- David
+- Tyler
+- Park
+- Gamora
+- Nebula
+- Stash
+
+fetch: this
+new: branch
